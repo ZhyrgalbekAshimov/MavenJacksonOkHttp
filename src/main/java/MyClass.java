@@ -40,8 +40,8 @@ public class MyClass {
 
     @Override
     public String toString() {
-        return  "product='" + product +
-                "\ninit='" + init +
+        return  "product: " + product +
+                "\ninit: " + init +
                 "\ndataseries" + dataseries;
     }
 }
